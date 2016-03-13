@@ -1,0 +1,59 @@
+学习交流：
+	专业交流：*
+studycom_specialty
+studycom_specialty_sendcard
+studycom_specialty_browse
+	升学交流：*
+studycom_highgrade
+studycom_highgrade_sendcard
+studycom_highgrade_browse
+
+资源分享：resource
+	悬赏求助：
+resource_appeal
+resource_appeal_sendcard
+resource_appeal_browse
+	资源分享：
+resource_share
+resource_share_sendcard
+resource_share_browse
+
+休闲娱乐：recreation
+	帅哥专区：
+recreation_boys
+recreation_boys_sendcard
+	美女专区：
+recreation_girls
+recreation_girls_sendcard
+	社会百变：*
+recreation_society
+recreation_society_sendcard
+recreation_society_browse
+	灌水专区：*
+recreation_water
+recreation_water_sendcard
+recreation_water_browse
+
+招聘求职：recruit
+	求职入口：
+recruit_huntjobs
+recruit_huntjobs_sendcard
+recruit_huntjobs_browse
+	经验交流：*
+recruit_share
+recruit_share_sendcard
+recruit_share_browse
+
+创业专区：project
+	项目商机：*
+project_business
+project_business_sendcard
+project_business_browse
+	成功分享：*
+project_share
+project_share_sendcard
+project_share_browse
+	困难帮手：*
+project_help
+project_help_sendcard
+project_help_browse
